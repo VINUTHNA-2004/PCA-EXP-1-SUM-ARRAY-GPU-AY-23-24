@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME</h3> D.R.Vinuthna
+<h3>NAME : D.R.Vinuthna </h3> 
 <h3>ENTER YOUR REGISTER NO</h3> 212221230017
 <h3>EX. NO</h3> 1
 <h3>DATE</h3> 27.02.24
